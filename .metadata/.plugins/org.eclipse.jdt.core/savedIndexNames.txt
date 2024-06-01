@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\ANTI!R3C\Documents\Java Programs\CarInfo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+709595056.index
+2785798879.index
+3959137331.index
+3757345127.index
